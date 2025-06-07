@@ -14,6 +14,7 @@
 - [qabalistic-structure](qabalistic-structure.md)
 - [AI-interface](AI-interface.md)
 - [about me.md](aboutme.md)
+- [dreamhistory](dreamhistory.md)
 - [🔒read collapse]()
 
 
