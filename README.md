@@ -13,7 +13,7 @@
 - [tarotOS]()
 - [qabalistic-structure](qabalistic-structure.md)
 - [AI-interface](AI-interface.md)
-- [about me.md](aboutme.md)🔒
+- [about me.md](aboutme.md)
 - [🔒read collapse]()
 
 
