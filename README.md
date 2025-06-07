@@ -12,7 +12,7 @@
 - [SASTIR](SASTIR.md)
 - [ZPE＆memtochondrion](ZPE＆memtochondrion.md)
 - [tarotOS]()
-- [astoral map]()
+- [astoral map](astralmap.md)
 - [qabalistic-structure](qabalistic-structure.md)
 - [AI-interface](AI-interface.md)
 - [about me](aboutme.md)
