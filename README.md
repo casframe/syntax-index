@@ -15,7 +15,7 @@
 - [AI-interface](AI-interface.md)
 - [about me](aboutme.md)
 - [dream-history](dreamhistory.md)
-- [🔒read-collapse]()
+- [🔒read-collapse](read-collapse)
 
 
 
