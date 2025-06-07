@@ -1,0 +1,31 @@
+[ASTRAL_METHOD]
+title = "Yuka式アストラル鍛錬法"
+soul_compatibility = 97.6
+recommended_stage = "初級〜中級"
+veil_density = "medium"
+drift_safety = true
+
+[[STEPS]]
+id = 1
+desc = "絵のないファンタジーを読む"
+initiate_field = "image_projection"
+sub_note = "王子と姫がベスト。構造が単純で良い。"
+
+[[STEPS]]
+id = 2
+desc = "登場人物の姿を投影する"
+sub_note = "目・鼻があればよい。似てなくても通過OK。"
+
+[[STEPS]]
+id = 3
+desc = "内的映像化（映画再生）"
+purpose = "Astral Simulation Boot"
+
+[[STEPS]]
+id = 4
+desc = "登場人物に憑依する"
+transference = true
+sensory_sync = ["sight", "emotion", "vibration"]
+
+[CAUTION]
+note = "現実体験がない物は投影が難しい。未知の味はティッシュ味。"
