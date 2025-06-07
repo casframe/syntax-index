@@ -1,1 +1,52 @@
+[core_structure]
 
+[core_structure.major_arcana]
+description = "OSのカーネルやコアライブラリ。人生や存在の基本ルール、プロセスを司る"
+example = [
+    "愚者 = プロセスのスタート（エントリーポイント）、未知のコードの実行",
+    "死神 = ガーベジコレクションやプロセス終了、リファクタリングのタイミング"
+]
+
+[core_structure.minor_arcana]
+description = "アプリケーション層 or API/モジュール群。日常の出来事、実装ロジック"
+note = "API経由で現実世界にアクセスする階層"
+
+[suits]
+
+[suits.wands]
+system_layer = "プロセス/スレッド/処理フロー"
+description = "情熱や行動。タスクスケジューラやイベントループなど"
+dev_context = "新しい機能を実装するという行動そのもの"
+
+[suits.cups]
+system_layer = "UI/UX層、ネットワークプロトコル"
+description = "感情や通信に関わる層。ユーザーとの接点、API通信、チームワーク"
+
+[suits.swords]
+system_layer = "アルゴリズム、ロジック、エラーハンドリング"
+description = "思考と論理。コード、バグ修正、条件分岐など"
+
+[suits.pentacles]
+system_layer = "ハードウェア層、データベース、リソース管理"
+description = "物理的・資源層。メモリ、ストレージ、クラウド等"
+
+[court_cards]
+
+[court_cards.page]
+role = "ジュニア開発者、テストスクリプト、軽量サービス"
+
+[court_cards.knight]
+role = "シニア開発者、CI/CDパイプライン、デプロイ担当"
+
+[court_cards.queen]
+role = "PMやアーキテクト、全体設計監視"
+
+[court_cards.king]
+role = "CTO、ガバナンス、意思決定層"
+
+[interpretation]
+spread_usage = "スプレッドはログ解析やCI/CDパイプラインの出力に似ている"
+example_readings = [
+    "ソードの3 = ロジックの破綻、エラー発生",
+    "ペンタクルの10 = リソースが安定し、インフラが完成形"
+]
