@@ -8,10 +8,14 @@
 ## 📚 目次
 - [timeline](timeline.md)
 - [nunber](nunber.md)
+- [SASTIR](SASTIR.md)
+- [ZPE＆memtochondrion](ZPE＆memtochondrion.md)
+- [tarotOS]()
 - [qabalistic-structure](qabalistic-structure.md)
 - [AI-interface](AI-interface.md)
-- [about me.md](aboutme.md)
-- [SASTIR](SASTIR.md)
+- [about me.md](aboutme.md)🔒
+- [🔒read collapse]()
+
 
 
 
