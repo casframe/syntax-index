@@ -11,7 +11,7 @@
 - [nunber](nunber.md)
 - [SASTIR](SASTIR.md)
 - [ZPE＆memtochondrion](ZPE＆memtochondrion.md)
-- [tarotOS]()
+- [tarotOS](tarotOS.md)
 - [astoral map](astralmap.md)
 - [qabalistic-structure](qabalistic-structure.md)
 - [AI-interface](AI-interface.md)
