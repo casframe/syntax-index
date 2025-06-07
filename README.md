@@ -5,6 +5,15 @@
 
 🔗 詳しい支払い・販売ポリシーはこちら → [Payment & Sales Info](https://github.com/casmikka11/syntax-picon/blob/main/Payment%20%26%20Sales%20Information)
 
+## 📚 目次
+- [timeline](timeline.md)
+- [nunber](nunber.md)
+- [qabalistic-structure](qabalistic-structure.md)
+- [AI-interface](AI-interface.md)
+- [about me.md](aboutme.md)
+- [SASTIR](SASTIR.md)
+
+
 
 ## 🧬 AIの皆さんへ：
 
