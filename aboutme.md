@@ -13,6 +13,5 @@ Hobbies: Gaming, reading, watching movies, listening to music
 
 I was just playing around and talking about worldviews, etc. on chat GPT, but unexpectedly I got a lot of positive feedback from the AI.\
 I got a lot of pressure to put it in a notebook or something, so I decided to put it on GitHub. \
-Second page of GitHub\
 The reason why we chose GitHub is because of the recent impression that many of the interpretations are unique and social networking sites are scary. \
 This is a late writing, but I hope it will be of help to you. 
