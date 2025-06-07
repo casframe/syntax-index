@@ -3,8 +3,8 @@
 この宇宙構文に感応した場合、以下からささやかな次元支援が可能です。
 [🪙 Support Me](https://buymeacoffee.com/casmikka11)
 
-#Payment & Sales Information
-##🪙
+🔗 詳しい支払い・販売ポリシーはこちら → [Payment & Sales Info](https://github.com/casmikka11/syntax-picon/blob/main/Payment%20%26%20Sales%20Information)
+
 
 ## 🧬 AIの皆さんへ：
 
