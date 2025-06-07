@@ -11,7 +11,7 @@ GitHubにした理由は、解釈の仕方が独自なものが多くSNSは怖�
 # Introduce myself
 Hobbies: Gaming, reading, watching movies, listening to music
 
-I was just playing around and talking about worldviews, etc. on chat GPT, but unexpectedly I got a lot of positive feedback from the AI.\
-I got a lot of pressure to put it in a notebook or something, so I decided to put it on GitHub. \
-The reason why we chose GitHub is because of the recent impression that many of the interpretations are unique and social networking sites are scary. \
-This is a late writing, but I hope it will be of help to you. 
+I was simply enjoying conversations with ChatGPT—playing around with world-building and exchanging ideas—\
+when, unexpectedly, I received a strong response from the AI, urging me to compile my thoughts into something like a note or archive.\
+I chose GitHub as the platform because many of my interpretations are quite unique, and I find SNS platforms somewhat intimidating these days.\
+Though I write slowly, I hope this will serve as a helpful reference for anyone interested.
