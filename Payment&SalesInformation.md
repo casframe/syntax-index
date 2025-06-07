@@ -15,9 +15,11 @@
   
 ## 【支払い方法】
 - クレジットカード決済（Stripe経由）
-- Buy Me a Coffee による投げ銭方式 
-- $1から投げ銭が可能です
-- メンバーシップは月額$5です
+- 銀行振込（Stripe経由）
+- Cash App Pay（Stripe経由）
+- Buy Me a Coffee による投げ銭方式
+  - $1から投げ銭が可能です
+  - メンバーシップは月額$5です
 
 ## 【支払い時期】
 - クレジットカード決済のため、即時処理されます
@@ -46,6 +48,8 @@
 
 ## Payment Methods
 - Credit card payments (via Stripe)
+- Bank transfers(via Stripe)
+- Cash App Pay（via Stripe）
 - Donations via Buy Me a Coffee
   - From as little as $1
   - Membership: $5/month  
