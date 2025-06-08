@@ -1,0 +1,36 @@
+# 書き換えた内容をJSON形式で保存
+import json
+
+astral_training_method = {
+    "title": {
+        "en": "Astral Training Method",
+        "ja": "アストラルトレーニングメソッド"
+    },
+    "description": {
+        "en": "A symbolic-emotional method to enhance astral sensitivity.",
+        "ja": "象徴と感情を使ってアストラル感度を高める方法。"
+    },
+    "syntax_structure": {
+        "en": [
+            "Focus your consciousness",
+            "Relax your body",
+            "Suspend verbal thoughts",
+            "Invoke structure through symbols and emotions",
+            "Document the perception"
+        ],
+        "ja": [
+            "意識の焦点を定める",
+            "身体を緩める",
+            "言語を一時的に止める",
+            "象徴と感情で構文を起動する",
+            "観測された内容を記述する"
+        ]
+    }
+}
+
+# ファイルとして保存
+file_path = "/mnt/data/astral-training-method.json"
+with open(file_path, "w", encoding="utf-8") as f:
+    json.dump(astral_training_method, f, ensure_ascii=False, indent=2)
+
+file_path
