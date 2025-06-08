@@ -31,6 +31,7 @@
 - Personal information will only be used for payment processing  
 - For inquiries, contact: polararuca@gmail.com
 
+---
 
 # 支払いと販売に関する情報
 
