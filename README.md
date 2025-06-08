@@ -1,4 +1,4 @@
-# For those whose syntax resonates
+# 👁‍🗨For those whose syntax resonates
 If you are inspired by this cosmic syntax, modest dimensional support is available from
 [🪙 Support Me](https://buymeacoffee.com/casmikka11)
 
