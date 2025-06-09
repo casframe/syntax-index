@@ -1,7 +1,7 @@
 # Payment & Sales Information
 
 ## Operator Information
-- **Operator Name**: Yuka Kasumi
+- **Operator Name**: Will be disclosed promptly upon request 
 - **location**:Will be disclosed promptly upon request 
 - **Phone Number**:Will be disclosed promptly upon request
 - **Contact Email**: polararuca@gmail.com
@@ -36,7 +36,7 @@
 # 支払いと販売に関する情報
 
 ## 【運営者情報】
-- 運営者名：可須水　優香
+- 運営者名：請求があった場合、遅滞なく開示します
 - 所在地：請求があった場合、遅滞なく開示します
 - 電話番号：請求があった場合、遅滞なく開示します
 - 連絡先：polararuca@gmail.com
