@@ -5,12 +5,5 @@
 🔗 詳しい支払い・販売ポリシーはこちら → 
 [Payment & Sales Information](Payment&SalesInformation.md)
 
-## 📚 目次
-- [timeline](https://github.com/casmikka11/timeline)
-- [SASTIR-core](https://github.com/casmikka11/SASTIR-core)
-- [ZPE-design](https://github.com/casmikka11/zpe-design)
-- [tarotOS](https://github.com/casmikka11/tarot-os)
-- [Astoral travels](https://github.com/casmikka11/Astral-travels)
-- [Qabalistic-structure](https://github.com/casmikka11/Qabalistic-structure)
-- [Dream-history](https://github.com/casmikka11/Dream-history)
-- [🔒collapse-reader](https://github.com/casmikka11/collapse-reader)
+## 📚 目次　レポジトリ
+順次追加
