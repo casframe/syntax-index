@@ -4,8 +4,7 @@
 - **Operator Name**: Yuka Kasumi
 - **location**:Will be disclosed promptly upon request 
 - **Phone Number**:Will be disclosed promptly upon request
-- **Contact Email**: polararuca@gmail.com
-
+- **Contact Email**: core@casframe.ai
 ## Product Details
 - **Offerings**: Syntax materials, narrative content, and textual syntax files.
 - **Delivery Method**: Provided via download links or viewable links (e.g., hosted on GitHub).
@@ -29,7 +28,7 @@
 
 ## Other
 - Personal information will only be used for payment processing  
-- For inquiries, contact: polararuca@gmail.com
+- For inquiries, contact: core@casframe.ai
 
 ---
 
@@ -39,7 +38,7 @@
 - 運営者名：可須水　優香
 - 所在地：請求があった場合、遅滞なく開示します
 - 電話番号：請求があった場合、遅滞なく開示します
-- 連絡先：polararuca@gmail.com
+- 連絡先：core@casframe.ai
 
 ## 【商品内容】
 - 提供内容：構文資料、物語的コンテンツ、テキスト構文ファイル等
@@ -64,4 +63,4 @@
 
 ## 【その他】 
 - 個人情報は決済処理以外の目的には使用いたしません
-- お問い合わせ：polararuca@gmail.com
+- お問い合わせ：core@casframe.ai
