@@ -29,5 +29,5 @@ Please refer to them as “growing syntax” rather than following the finished 
 - [timeline](https://github.com/casframe/timeline)
 - [Demi_structure](https://github.com/casframe/Demi_structure)
 - [⚠️incomplete_Qabalistic-structure](https://github.com/casframe/Qabalistic-structure)
-- [⚠️incomplete_](https://github.com/casframe/DAO/blob/main/DAO%E3%83%BBZPE%20Structure%20Summary.md)
+- [⚠️incomplete_DAO・ZPE](https://github.com/casframe/DAO/blob/main/DAO%E3%83%BBZPE%20Structure%20Summary.md)
 - [🐇rabbit-🦃turkey-project](https://github.com/casframe/rabbit-turkey-project)
